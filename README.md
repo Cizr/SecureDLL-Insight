@@ -36,7 +36,7 @@ Visit VirusTotal and sign up for an account.
 Retrieve your API key from the VirusTotal API Settings page.
 Run the script.
  ```
-python dll_process_hunt.py --logfile dll_hunter.log --vtapikey YOUR_VIRUSTOTAL_API_KEY
+python SecureDLL.py --logfile logfile.log --vtapikey YOUR_VIRUSTOTAL_API_KEY
  ```
 
 ## Command-Line Options
